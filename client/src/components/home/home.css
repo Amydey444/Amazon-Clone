@@ -1,0 +1,24 @@
+.home_section{
+    width:100%;
+    top:60px;
+    background-color: #e7e7e7;
+    min-height: calc(100vh-120px);
+    border-bottom: 2px solid rgb(199,199,199);
+    margin:0;
+    padding: 2rem;
+    padding-bottom: 50px;
+    
+}
+
+.banner_part {
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+  @media (max-width:808px){
+    .home_section{
+        min-height: calc(100vh-80px);
+    }
+}
