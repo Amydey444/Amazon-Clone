@@ -36,4 +36,23 @@ To replicate an e-commerce platform like Amazon to gain hands-on experience in f
 - Handling dynamic routing in React
 - Real-world deployment and environment configuration
 
+  ## ⚙️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Amydey444/amazon-clone.git
+```
+### 2. Navigate to the Project Folder
+```bash
+cd amazon-clone
+```
+### 3.Install Dependencies
+```bash
+npm install
+```
+### 4.Start the App
+```bash
+npm start
+```
 
